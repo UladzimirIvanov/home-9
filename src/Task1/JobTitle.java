@@ -1,2 +1,5 @@
-package Task1;public interface JobTitle {
+package Task1;
+
+public interface JobTitle {
+    void title();
 }
